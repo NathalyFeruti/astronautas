@@ -4,12 +4,12 @@
 }
 
 body{
-    background-color: white;
-    margin: 0 0 40px;
+    background-color: rgb(141, 215, 238);
+    
 }
 
 header{
-    background-color: rgb(232, 246, 243);
+    background-color: rgb(22, 123, 206);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -27,7 +27,7 @@ header{
 }
 
 .principal{
-    background-image: linear-gradient(rgb(232, 246, 243), rgb(89, 51, 179));
+    background-image: linear-gradient(rgb(60, 192, 233), rgb(89, 189, 247));
     display: flex;
     justify-content: center;
     align-items: center;
@@ -46,13 +46,12 @@ header{
 }
 
 h1{
-    font-family: 'Ysabeau SC', sans-serif;
+    font-family: 'Oswald', sans-serif;
     text-align: center;
     
 }
 
 .missao{
-   
     width: 50%;
    margin: 0 auto;
    text-align: justify;
@@ -60,8 +59,9 @@ h1{
 
 .div-redes-sociais{
     text-align: center;
-    margin: 20px 0;
+    margin: 150px 0;
 }
 .redes-sociais{
     width: 5%;
 }
+
